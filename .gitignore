@@ -1,0 +1,11 @@
+# OS
+.window 11
+
+# IDE
+.Sqldeveloper/
+.idea/
+*~
+
+# Local config
+*.log
+*.tmp 
